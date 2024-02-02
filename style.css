@@ -1,0 +1,41 @@
+
+/* .main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+body {
+    /* margin: 20px; */
+    color: #edf6f9;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    Esto es para usar las fuentes que se encuentran en el web safe. Pero me gusta
+    mas la que está aplicada por defecto. */
+}
+
+.img {
+    width: 150px;
+    border-radius: 5%;
+}
+
+.card {
+    width: 400px; 
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 20px auto;
+    /* margin-right: auto;
+    margin-left: auto; 
+    Arriba usamos una forma mas eficiente de lograr este resultado */
+    text-align: center;
+    background-color: #14213d;
+    border-bottom: solid 8px #fca311;
+}
+
+/* .border {
+    border: 1px dotted blue;
+} */
+
+
+
